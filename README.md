@@ -10,4 +10,4 @@ I decided to build this project to get hands-on experience with the concepts I w
 
 <br><br>
 
-[`Click here to visit the website`](https://github.com/Oanekrif/Home-Page.git)
+[`Click here to visit the website`](https://oanekrif.github.io/Home-Page/)
