@@ -7,3 +7,7 @@ While this may not be the most exciting or groundbreaking project out there, it 
 ## Why I Created This Project
 
 I decided to build this project to get hands-on experience with the concepts I was learning. It helped me understand the basics of HTML, CSS a,d JavaScript and gave me the confidence to continue building more complex applications in the future.
+
+<br><br>
+
+[`Click here to visit the website`](https://github.com/Oanekrif/Home-Page.git)
